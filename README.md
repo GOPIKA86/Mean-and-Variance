@@ -49,9 +49,10 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program :
 
-NAME: GOPIKA A
-
-REG NO: 212224100017
+NAME: GOPIKA A    
+REG NO: 212224100017   
+DEPT: CSE(CYBER SECURITY)   
+DATE: 29-04-2025
 
 ```
 import numpy as np
