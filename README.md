@@ -1,5 +1,8 @@
-#  Mean and variance of a discrete  distribution
+NAME: GOPIKA A
 
+REG NO: 212224100017   
+
+#  Mean and variance of a discrete  distribution
 
 # Aim : 
 
